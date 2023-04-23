@@ -29,3 +29,9 @@ Create `source/analytics.html.md.erb`
 layout: analytics_layout
 ---
 ```
+
+Use helper on page...
+
+```ruby
+<%= switch_header_links %>
+```

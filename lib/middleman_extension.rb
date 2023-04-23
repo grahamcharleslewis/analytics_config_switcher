@@ -1,0 +1,1 @@
+require 'analytics_config_switcher'
